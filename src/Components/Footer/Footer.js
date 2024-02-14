@@ -2,7 +2,8 @@ import React from "react";
 import "./Footer.css";
 import globe from "../../assets/Navbar/globe.png";
 
-const Footer = () => {
+const Footer = ({ language }) => {
+  
   return (
     <div className="footer">
       <div className="call">
