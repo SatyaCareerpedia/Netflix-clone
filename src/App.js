@@ -2,7 +2,6 @@
 import Home from './Pages/Home/Home';
 import Sign from './Pages/Sign/Sign';
 import './App.css';
-
 import React from "react";
 
 
